@@ -12,6 +12,9 @@ release, and any new translations added.
 - Replace deprecated ``pkg_resources.iter_entry_points`` with
   ``importlib_metadata``.
 
+- Support Django 5.0.
+
+- Support Python 3.12.
 
 7.5.1 (1 February 2023)
 =======================
